@@ -22,7 +22,6 @@ src="https://camo.githubusercontent.com/374987f773148e46b1851b9e3bc4bf71b182562d
 
 -----
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=shubhiidixit&show_icons=true&locale=en" alt="shubhiidixit" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhiidixit&show_icons=true&theme=tokyonight&title_color=a63ea8&text_color=e1ade0&locale=en&layout=compact" alt="shubhiidixit" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubhiidixit&" alt="shubhiidixit" /></p>
 
 -----
