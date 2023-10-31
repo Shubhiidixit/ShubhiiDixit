@@ -29,4 +29,3 @@ src="https://camo.githubusercontent.com/374987f773148e46b1851b9e3bc4bf71b182562d
 <a href="https://instagram.com/_.shubhiidixit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.shubhiidixit" height="30" width="40" /></a>
 </p>
 
-<img src="https://holopin.io/@shubhiidixit">
