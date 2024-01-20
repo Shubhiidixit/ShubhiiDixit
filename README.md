@@ -11,9 +11,9 @@ src="https://camo.githubusercontent.com/374987f773148e46b1851b9e3bc4bf71b182562d
 
 - 🌱 I’m currently learning **DSA, MERN Stack and DevOps**
 
-- 👨‍💻 All of my projects are available at **https://github.com/Shubhiidixit**
-
 - 💬 Ask me about **Cloud Computing**
+
+- 👨‍💻 All of my projects are available at **https://github.com/Shubhiidixit**
 
 - 📫 How to reach me **shubhidixit2903@gmail.com**
 
