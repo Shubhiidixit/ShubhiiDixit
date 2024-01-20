@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=FF6666&lines=Hello,+my+name+is+Shubhi.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=FF6666&lines=Hello,+I'm+Shubhi+Dixit!)](https://git.io/typing-svg)
 
 ----
 
@@ -12,6 +12,8 @@ src="https://camo.githubusercontent.com/374987f773148e46b1851b9e3bc4bf71b182562d
 - 🌱 I’m currently learning **DSA, MERN Stack and DevOps**
 
 - 👨‍💻 All of my projects are available at **https://github.com/Shubhiidixit**
+
+- 💬 Ask me about **Cloud Computing**
 
 - 📫 How to reach me **shubhidixit2903@gmail.com**
 
