@@ -9,7 +9,7 @@ src="https://camo.githubusercontent.com/374987f773148e46b1851b9e3bc4bf71b182562d
 
 - 🔭 I'm working on **Socket Programming Using Cryptography**
 
-- 🌱 I’m currently learning **DSA and DevOps**
+- 🌱 I’m currently learning **DSA, MERN Stack and DevOps**
 
 - 👨‍💻 All of my projects are available at **https://github.com/Shubhiidixit**
 
