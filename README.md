@@ -17,7 +17,6 @@ src="https://camo.githubusercontent.com/374987f773148e46b1851b9e3bc4bf71b182562d
 
 - 📫 How to reach me **shubhidixit2903@gmail.com**
 
-- ⚡ Fun fact **The only code I write without any errors : "Hello World"**
 ----
 
 
