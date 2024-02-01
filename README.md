@@ -8,7 +8,7 @@
 </p>
 
 
-- 🔭 I'm working on **Socket Programming Using Cryptography**
+- 🔭 I'm currently working on [SkillSync](https://github.com/Shubhiidixit/SkillSync.git) 
 
 - 🌱 I’m currently learning **DSA, MERN Stack and DevOps**
 
