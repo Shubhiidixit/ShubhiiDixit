@@ -10,7 +10,7 @@
 
 - 🔭 I'm currently working on [SkillSync](https://github.com/Shubhiidixit/SkillSync.git) 
 
-- 🌱 I’m currently learning **DSA, DevOps and MERN Stack**
+- 🌱 I’m currently learning **DSA, DevOps and MERN stack**
 
 - 💬 Ask me about **Cloud Computing**
 
