@@ -2,7 +2,6 @@
 
 ----
 
-<h3 align="center">A dedicated and creative Frontend Developer from India</h3>
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=shubhiidixit&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
