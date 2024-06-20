@@ -1,8 +1,11 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&background=FFFFFF&color=000000&multiline=true&repeat=true&width=435&height=60&lines=Hi+there+%F0%9F%91%8B+;Welcome+to+my+GitHub!!)](https://git.io/typing-svg)
-<br />           
+# Hi I'm Shubhi Dixit👋 
+<br />  
+Welcome to my profile!😃 I'm a pre final year student, currently pursuing B.Tech in Computer Science at UPES Dehradun with a specialization in Cloud Computing and Virtualization Technology.💻☁️
+I'm constantly exploring new tools and techniques to stay at the forefront of this dynamic field. Let's connect and collaborate on exciting projects together!✨
 
-----
-<b> I am Shubhi Dixit!
+
+Thanks for visiting❤️
+
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=shubhiidixit&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
