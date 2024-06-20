@@ -34,3 +34,31 @@ Thanks for visiting❤️
 <a href="https://instagram.com/_.shubhiidixit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.shubhiidixit" height="30" width="40" /></a>
 </p>
 
+
+# Community Word Cloud :cloud: :pencil2:
+
+Welcome to the Community Word Cloud project! This project allows everyone to contribute words to create a dynamic word cloud.
+
+## How to Contribute
+
+### Adding a Word
+
+To add a word to the word cloud, follow these steps:
+1. Click [here](https://github.com/ShubhiiDixit/ShubhiiDixit/issues/new?template=addword.md&title=wordcloud%7Cadd%7C%3CINSERT-WORD%3E) to create a new issue.
+2. Replace `<INSERT-WORD>` in the issue title with your word.
+3. Submit the issue. Your word will be added to the word cloud.
+
+
+## Prompt
+
+### Current Prompt
+
+- **Where are you hoping to travel next?** :airplane: :earth_americas: :luggage:
+
+## Word Cloud Preview
+
+Here is the current word cloud based on community contributions:
+
+<img src="https://raw.githubusercontent.com/ShubhiiDixit/ShubhiiDixit/master/wordcloud/wordcloud.png" alt="WordCloud" width="100%">
+
+
