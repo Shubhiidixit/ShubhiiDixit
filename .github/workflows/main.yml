@@ -1,0 +1,35 @@
+name: Word Cloud Generation
+
+on:
+  issues:
+    types: [opened]
+
+jobs:
+  generate-word-cloud:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install wordcloud requests python-dotenv
+
+      - name: Generate Word Cloud
+        run: |
+          python cloud.py
+
+      - name: Commit and Push Changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add wordcloud.png
+          git commit -m "Update word cloud [skip ci]"
+          git push
