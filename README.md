@@ -1,5 +1,4 @@
 # Hi I'm Shubhi Dixit👋 
-<br />  
 Welcome to my profile!😃 I'm a pre final year student, currently pursuing B.Tech in Computer Science at UPES Dehradun with a specialization in Cloud Computing and Virtualization Technology.💻☁️
 I'm constantly exploring new tools and techniques to stay at the forefront of this dynamic field. Let's connect and collaborate on exciting projects together!✨
 
