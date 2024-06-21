@@ -11,7 +11,7 @@ Thanks for visiting❤️
 </p>
 
 
-- 🔭 I'm currently working on [SkillSync](https://github.com/Shubhiidixit/SkillSync.git) 
+- 🔭 I'm currently working on [SkillSync](https://github.com/Shubhiidixit/SkillSync.git), [MeetUp](https://github.com/Shubhiidixit/MeetUp.git).
 
 - 🌱 I’m currently learning **DSA, DevOps and MERN stack**
 
