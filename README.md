@@ -4,11 +4,13 @@ I'm constantly exploring new tools and techniques to stay at the forefront of th
 
 Thanks for visiting❤️
 
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/53329034/123502306-0fcdfc80-d669-11eb-87e4-d24cccfbbd00.gif" loading="lazy"/>
+
+
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=shubhiidixit&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/53329034/123502306-0fcdfc80-d669-11eb-87e4-d24cccfbbd00.gif" loading="lazy"/>
 
 - 🔭 I'm currently working on [SkillSync](https://github.com/Shubhiidixit/SkillSync.git), [MeetUp](https://github.com/Shubhiidixit/MeetUp.git)
 
