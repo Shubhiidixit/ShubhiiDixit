@@ -2,9 +2,10 @@
 Welcome to my profile!😃 I'm a final year student, currently pursuing B.Tech in Computer Science at UPES Dehradun with a specialization in Cloud Computing and Virtualization Technology.💻☁️
 I'm constantly exploring new tools and techniques to stay at the forefront of this dynamic field. Let's connect and collaborate on exciting projects together!✨
 
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/53329034/123502306-0fcdfc80-d669-11eb-87e4-d24cccfbbd00.gif" loading="lazy"/>
+
 Thanks for visiting❤️
 
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/53329034/123502306-0fcdfc80-d669-11eb-87e4-d24cccfbbd00.gif" loading="lazy"/>
 
 
 <p align="left">
