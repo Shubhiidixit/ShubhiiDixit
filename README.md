@@ -12,9 +12,6 @@ Thanks for visiting❤️
   <img src="https://komarev.com/ghpvc/?username=shubhiidixit&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-
-- 🔭 I'm currently working on [SkillSync](https://github.com/Shubhiidixit/SkillSync.git), [MeetUp](https://github.com/Shubhiidixit/MeetUp.git)
-
 - 🌱 I’m currently learning **DSA, DevOps and MERN stack**
 
 - 💬 Ask me about **Cloud Computing**
@@ -32,7 +29,10 @@ Thanks for visiting❤️
 -----
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/shubhi-dixit-80ab4125b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shubhi-dixit-80ab4125b/" height="30" width="40" /></a>
-<a href="https://instagram.com/_.shubhiidixit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.shubhiidixit" height="30" width="40" /></a>
+[<img src="https://cdn.jsdelivr.net/gh/dheereshagrwal/colored-icons@1.7.5/public/icons/github/github.svg" width="40px">](https://github.com/Shubhiidixit)
+[<img src="https://cdn.jsdelivr.net/gh/dheereshagrwal/colored-icons@1.7.5/public/icons/linkedin/linkedin.svg" width="40px">](https://www.linkedin.com/in/shubhi-dixit-80ab4125b/)
+[<img src="https://cdn.jsdelivr.net/gh/dheereshagrwal/colored-icons@1.7.5/public/icons/gmail/gmail.svg" width="40px">](mailto:shubhidixit2903@gmail.com)
+[<img src="https://cdn.jsdelivr.net/gh/dheereshagrwal/colored-icons@1.7.5/public/icons/docker/docker.webp" width="40px">](https://hub.docker.com/u/shubhid)
+[<img src="https://www.svgrepo.com/show/331358/credly.svg" width="40px">](https://www.credly.com/users/shubhi-dixit/badges)
 </p>
 
