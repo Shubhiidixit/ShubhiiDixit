@@ -27,6 +27,7 @@ Thanks for visiting❤️
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubhiidixit&" alt="shubhiidixit" /></p>
 
 -----
+
 [<img src="https://cdn.jsdelivr.net/gh/dheereshagrwal/colored-icons@1.7.5/public/icons/github/github.svg" width="40px">](https://github.com/Shubhiidixit)
 [<img src="https://cdn.jsdelivr.net/gh/dheereshagrwal/colored-icons@1.7.5/public/icons/linkedin/linkedin.svg" width="40px">](https://www.linkedin.com/in/shubhi-dixit-80ab4125b/)
 [<img src="https://cdn.jsdelivr.net/gh/dheereshagrwal/colored-icons@1.7.5/public/icons/gmail/gmail.svg" width="40px">](mailto:shubhidixit2903@gmail.com)
