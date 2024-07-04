@@ -22,14 +22,14 @@ Thanks for visiting❤️
 
 ----
 
+[<img src="https://cdn.jsdelivr.net/gh/dheereshagrwal/colored-icons@1.7.5/public/icons/github/github.svg" width="40px">](https://github.com/Shubhiidixit)
+[<img src="https://cdn.jsdelivr.net/gh/dheereshagrwal/colored-icons@1.7.5/public/icons/linkedin/linkedin.svg" width="40px">](https://www.linkedin.com/in/shubhi-dixit-80ab4125b/)
+[<img src="https://cdn.jsdelivr.net/gh/dheereshagrwal/colored-icons@1.7.5/public/icons/gmail/gmail.svg" width="40px">](mailto:shubhidixit2903@gmail.com)
+[<img src="https://cdn.jsdelivr.net/gh/dheereshagrwal/colored-icons@1.7.5/public/icons/docker/docker.webp" width="40px">](https://hub.docker.com/u/shubhid)
+[<img src="https://www.svgrepo.com/show/331358/credly.svg" width="40px">](https://www.credly.com/users/shubhi-dixit/badges)
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=shubhiidixit&show_icons=true&locale=en" alt="shubhiidixit" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubhiidixit&" alt="shubhiidixit" /></p>
 
 -----
 
-[<img src="https://cdn.jsdelivr.net/gh/dheereshagrwal/colored-icons@1.7.5/public/icons/github/github.svg" width="40px">](https://github.com/Shubhiidixit)
-[<img src="https://cdn.jsdelivr.net/gh/dheereshagrwal/colored-icons@1.7.5/public/icons/linkedin/linkedin.svg" width="40px">](https://www.linkedin.com/in/shubhi-dixit-80ab4125b/)
-[<img src="https://cdn.jsdelivr.net/gh/dheereshagrwal/colored-icons@1.7.5/public/icons/gmail/gmail.svg" width="40px">](mailto:shubhidixit2903@gmail.com)
-[<img src="https://cdn.jsdelivr.net/gh/dheereshagrwal/colored-icons@1.7.5/public/icons/docker/docker.webp" width="40px">](https://hub.docker.com/u/shubhid)
-[<img src="https://www.svgrepo.com/show/331358/credly.svg" width="40px">](https://www.credly.com/users/shubhi-dixit/badges)
