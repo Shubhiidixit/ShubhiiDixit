@@ -7,11 +7,6 @@ I'm constantly exploring new tools and techniques to stay at the forefront of th
 Thanks for visiting❤️
 
 
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=shubhiidixit&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
 ##  Current Status
 - 🌱 I’m currently learning **DSA, DevOps and MERN stack**
 
@@ -20,6 +15,10 @@ Thanks for visiting❤️
 - 👨‍💻 All of my projects are available at **https://github.com/Shubhiidixit**
 
 - 📫 How to reach me **shubhidixit2903@gmail.com**
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=shubhiidixit&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
 ----
 
