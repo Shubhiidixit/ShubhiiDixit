@@ -16,11 +16,13 @@ Thanks for visiting❤️
 
 - 📫 How to reach me **shubhidixit2903@gmail.com**
 
+----
+
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=shubhiidixit&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-----
+
 
 [<img src="https://cdn.jsdelivr.net/gh/dheereshagrwal/colored-icons@1.7.5/public/icons/github/github.svg" width="40px">](https://github.com/Shubhiidixit)
 [<img src="https://cdn.jsdelivr.net/gh/dheereshagrwal/colored-icons@1.7.5/public/icons/linkedin/linkedin.svg" width="40px">](https://www.linkedin.com/in/shubhi-dixit-80ab4125b/)
