@@ -12,6 +12,7 @@ Thanks for visiting❤️
   <img src="https://komarev.com/ghpvc/?username=shubhiidixit&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
+##  Current Status
 - 🌱 I’m currently learning **DSA, DevOps and MERN stack**
 
 - 💬 Ask me about **Cloud Computing**
