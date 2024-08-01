@@ -4,7 +4,7 @@ I'm constantly exploring new tools and techniques to stay at the forefront of th
   
   <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/53329034/123502306-0fcdfc80-d669-11eb-87e4-d24cccfbbd00.gif" loading="lazy"/>
 
-Thanks for visiting❤️
+Thanks for visiting.❤️
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=shubhiidixit&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
