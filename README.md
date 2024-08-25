@@ -11,7 +11,7 @@ Thanks for visiting.❤️
 </p>
 
 <b>  <h3> Current Status </h3>  </b> 
-- 🔭 I'm currently working on [SkillSync](https://github.com/Shubhiidixit/SkillSync.git), [MeetUp](https://github.com/Shubhiidixit/MeetUp.git)
+- 🔭 I'm currently working on [SkillSync](https://github.com/Shubhiidixit/SkillSync), [MultiGen AI](https://github.com/Shubhiidixit/major-project)
 
 - 🌱 I’m currently learning **DSA and DevOps**
 
