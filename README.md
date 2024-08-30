@@ -16,11 +16,15 @@ Thanks for visiting.❤️
 
 - 🌱 I’m currently learning **DSA and DevOps**
 
-- 💬 Ask me about **Cloud Computing**
+-  Ask me about **Cloud Computing**
 
 - 👨‍💻 All of my projects are available at **https://github.com/Shubhiidixit**
 
 - 📫 How to reach me **shubhidixit2903@gmail.com**
+  
+- 🎓 AWS Certified Solutions Architect – Associate
+
+
 
 ----
 [<img src="https://cdn.jsdelivr.net/gh/dheereshagrwal/colored-icons@1.7.5/public/icons/github/github.svg" width="40px">](https://github.com/Shubhiidixit)
