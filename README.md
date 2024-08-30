@@ -16,7 +16,7 @@ Thanks for visiting.❤️
 
 - 🌱 I’m currently learning **DSA and DevOps**
 
--  Ask me about **Cloud Computing**
+- ☁️ Ask me about **Cloud Computing**
 
 - 👨‍💻 All of my projects are available at **https://github.com/Shubhiidixit**
 
