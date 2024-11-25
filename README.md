@@ -10,6 +10,7 @@ Thanks for visiting.❤️
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=shubhiidixit&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
+
 <b>  <h3> Current Status </h3>  </b> 
 - 🔭 I'm currently working on [MultiGen AI](https://github.com/Shubhiidixit/major-project)
 
@@ -22,8 +23,6 @@ Thanks for visiting.❤️
 - 📫 How to reach me **shubhidixit2903@gmail.com**
   
 - 🎓 AWS Certified Solutions Architect – Associate
-
-
 
 ----
 [<img src="https://cdn.jsdelivr.net/gh/dheereshagrwal/colored-icons@1.7.5/public/icons/github/github.svg" width="40px">](https://github.com/Shubhiidixit)
