@@ -6,7 +6,6 @@ I'm constantly exploring new tools and techniques to stay at the forefront of th
 
 Thanks for visiting.❤️
 
-
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=shubhiidixit&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
